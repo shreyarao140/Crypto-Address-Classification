@@ -63,7 +63,7 @@ The repository is organized into two main folders:
 
 This project utilizes a comprehensive Python-based pipeline for the following tasks:
 
-1. **Data Collection**: Collecting a diverse dataset of cryptocurrency addresses from different blockchains.
+1. **Data Collection**:  a diverse dataset of cryptocurrency addresses of different blockchains.
 2. **Data Preprocessing**: Cleaning and transforming the dataset to make it suitable for model training.
 3. **Feature Engineering**: Extracting relevant features from the cryptocurrency addresses, such as length, character frequency, and checksum validation.
 4. **Model Selection**: Choosing appropriate machine learning algorithms for classification tasks.
