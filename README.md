@@ -85,7 +85,6 @@ This project utilizes a comprehensive Python-based pipeline for the following ta
 
 ## Future Improvements
 
-- **Hyperparameter Tuning**: Perform grid search or random search to optimize the hyperparameters of the models.
 - **Ensemble Methods**: Combine multiple models to improve overall classification performance.
 
 
