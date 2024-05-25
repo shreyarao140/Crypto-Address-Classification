@@ -58,6 +58,19 @@ The repository is organized into two main folders:
 - `crypto_addresses.csv`: Contains addresses for BTC, ETH, TRX, XRP, LTC, ADA, DOT, BSC, SOL, XTZ, LINK, EOS, XLM, XMR, ZEC, ALGO, AVAX, and VET.
 - `code_.ipynb`: Code for implementing and evaluating multiple models including Random Forest, SVM, GBM, Logistic Regression, KNN, GaussianNB and Decision Tree Classifier.
 
+
+## Python-based Pipeline
+
+This project utilizes a comprehensive Python-based pipeline for the following tasks:
+
+1. **Data Collection**: Collecting a diverse dataset of cryptocurrency addresses from different blockchains.
+2. **Data Preprocessing**: Cleaning and transforming the dataset to make it suitable for model training.
+3. **Feature Engineering**: Extracting relevant features from the cryptocurrency addresses, such as length, character frequency, and checksum validation.
+4. **Model Selection**: Choosing appropriate machine learning algorithms for classification tasks.
+5. **Model Training**: Training the selected models on the dataset.
+6. **Model Evaluation**: Evaluating the trained models using various metrics such as accuracy, precision, recall, and confusion matrix.
+7. **Model Deployment**: Deploying the trained classification model for real-time classification of cryptocurrency addresses.
+
 ### Prerequisites
 
 - Python 3.6 or higher
