@@ -75,6 +75,23 @@ This project utilizes a comprehensive Python-based pipeline for the following ta
 
 - Python 3.6 or higher
 - Required libraries: `pandas`, `numpy`, `sklearn`, `joblib`, `matplotlib`.
+( make sure libraries are installed)
+
+### Running the Project
+
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/shreyarao140/Crypto-Address-Classification.git
+    cd Crypto-Address-Classification
+   ``` 
+2. **Open Jupyter Notebook**:
+    ```sh
+    jupyter notebook
+    ```
+
+3. **Navigate to the `assignment` or `assignment-extra` folder** and open the respective Jupyter notebook (`code1.ipynb` or `code.ipynb`).
+
+4. **Run the notebook cells sequentially** to execute the full pipeline for data collection, preprocessing, feature engineering, model selection, training, evaluation, and deployment.
 
 
 ## Detailed Analysis and Insights
